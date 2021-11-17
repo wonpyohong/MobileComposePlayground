@@ -1,5 +1,7 @@
 package com.wonpyohong.android.mobilecomposeplayground
 
+import com.wonpyohong.android.mobilecomposeplayground.ui.Message
+
 object SampleData {
     // Sample conversation data
     val conversationSample = listOf(
